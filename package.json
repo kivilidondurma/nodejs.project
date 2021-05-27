@@ -1,0 +1,21 @@
+{
+  "name": "a",
+  "version": "1.0.0",
+  "description": "",
+  "main": "first.js",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "chromedriver": "^89.0.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.12.7",
+    "selenium-webdriver": "^4.0.0-beta.2",
+    "validator": "^13.5.2",
+    "yargs": "^16.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
